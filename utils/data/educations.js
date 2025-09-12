@@ -1,20 +1,39 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Programme Gwani – Développe-les (Certificat de participation)",
+    duration: "Fév 2025 – Mai 2025",
+    institution: "Swisscontact, Niamey",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Meta Front-End Developer (Certificat professionnel)",
+    duration: "2023 – 2024",
+    institution: "Coursera (en ligne)",
+    certificateUrl: "https://coursera.org/verify/professional-cert/S9A9RY9RV9AM"
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Formation Développement Web",
+    duration: "2023 – 2024",
+    institution: "Codeloccol, Niamey",
+  },
+  {
+    id: 4,
+    title: "Apprentissage Autodidacte en Programmation",
+    duration: "2021 – Présent",
+    institution: "Cours en ligne (YouTube, OpenClassrooms, FreeCodeCamp, etc.)",
+  },
+  {
+    id: 5,
+    title: "Baccalauréat Série D",
+    duration: "2020 – 2021",
+    institution: "CSP Amine Rive-droite, Niamey",
+  },
+  {
+    id: 6,
+    title: "BEPC",
+    duration: "2016 – 2017",
+    institution: "CES Aboubacar Souley, Tchiro – Agadez",
   }
 ]
